@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a Computer Science student with a passion for crafting innovative mobile and web applications.  
+🎓 I'm a Computer Science student with a passion for crafting innovative mobile applications.  
 💡 I specialize in building apps that solve real-world problems using modern tools and technologies like **Flutter**, **Firebase**, **Python**, and more.  
 📱 My interests lie in mobile app development, game development, and real-time systems.
 
