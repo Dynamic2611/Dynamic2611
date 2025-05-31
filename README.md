@@ -21,7 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-purple?logo=c-sharp&logoColor=white)
 
 ### 🛠 Frameworks & Platforms
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
